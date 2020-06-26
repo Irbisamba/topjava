@@ -1,5 +1,5 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0b216d66543547c0ad3ee5d3b2bfa227)](https://www.codacy.com/manual/Irbisamba/topjava?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Irbisamba/topjava&amp;utm_campaign=Badge_Grade)
-[![Build Status](https://travis-ci.org/github/Irbisamba/topjava.svg?branch=master)](https://travis-ci.org/JavaWebinar/topjava)
+[![Build Status](https://travis-ci.org/github/Irbisamba/topjava.svg?branch=master)](https://travis-ci.org/Irbisamba/topjava)
 
 Java Enterprise Online Project 
 ===============================
